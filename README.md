@@ -12,3 +12,4 @@ Microsoft Power BI Desktop: For data modeling, executive KPI summary cards, cate
 Lab Manual / Report (DA_PulseReport_Dixit.pdf): Contains the complete documentation, step-by-step procedures, and screenshots for all 10 practical experiments (6 Cognos + 4 Power BI).
 
 [Download Lab Manual PDF](https://raw.githubusercontent.com/adarshdixit2021-ai/descriptive-analytics-lab-cognos-powerbi/main/DA_PulseReport_Dixit.pdf)
+<a href="https://raw.githubusercontent.com/adarshdixit2021-ai/descriptive-analytics-lab-cognos-powerbi/main/DA_PulseReport_Dixit.pdf" download>Download Lab Manual PDF</a>
